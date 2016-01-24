@@ -1,0 +1,8 @@
+{
+  "name": "Weather Diff",
+  "description": "Shows the diff in weather between two ZIP codes",
+  "repository": "https://github.com/wavebeem/weather-diff",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express"],
+  "image": "heroku/nodejs"
+}
